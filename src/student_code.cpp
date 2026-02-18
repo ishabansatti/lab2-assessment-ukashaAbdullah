@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-//int getIntValue() {
+int getIntValue() {
     // Declare a variable var_int of type int and set its value to 10.
-    //int var_int = 10;
-    //return var_int;
+    int var_int = 10;
+    return var_int;
 }
 
 float getFloatValue() {
