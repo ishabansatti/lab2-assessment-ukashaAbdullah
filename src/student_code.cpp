@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 
-int getIntValue() {
+//int getIntValue() {
     // Declare a variable var_int of type int and set its value to 10.
-    int var_int = 10;
-    return var_int;
+    //int var_int = 10;
+    //return var_int;
 }
 
 float getFloatValue() {
@@ -14,14 +14,14 @@ float getFloatValue() {
     return var_float;
 }
 
-char getCharValue() {
+//char getCharValue() {
     // Declare a variable var_char of type character and set its value to A.
     //return var_char;
 }
 
-int convertFloatToInt(float value) {
+//int convertFloatToInt(float value) {
     // convert value to int.
-    return value;
+  //  return value;
 }
 
 /*
