@@ -10,13 +10,13 @@ int getIntValue() {
 float getFloatValue() {
     // Declare a variable var_float of type float and set its value to 10.75.
     //return var_float;
-    float var_float = 10.75;
-    return var_float;
+    
 }
 
 //char getCharValue() {
     // Declare a variable var_char of type character and set its value to A.
     //return var_char;
+char var_char = 'A';
 }
 
 //int convertFloatToInt(float value) {
